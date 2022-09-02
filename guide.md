@@ -39,7 +39,7 @@
 - `meta` 태그에 기본 viewport 설정을 해주세요. (width: device-width, initial-scale: 1.0)
 - `title` 태그는 영화추천사이트 라고 설정 해주세요.
 
-### `**header`**
+### **`header`**
 
 웹 사이트의 헤더 부분에는 로고 이미지와 네비게이션 바를 구성합니다.
 
